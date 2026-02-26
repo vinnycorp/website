@@ -39,9 +39,9 @@ Add a file to `data/ecosystem/{category-slug}/{your-project}.json`:
 }
 ```
 
-All fields except `logo` are required. If you don't have a logo, set it to `null` — the site will show a letter fallback.
+All fields are required.
 
-### 3. Add a logo (optional)
+### 3. Add a logo
 
 Drop your logo in `public/logos/`. PNG or SVG, any reasonable size.
 

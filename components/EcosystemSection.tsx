@@ -55,7 +55,7 @@ export function EcosystemSection() {
                 Ecosystem
               </h2>
               <a
-                href="https://github.com/rawgroundbeef/x402.eco"
+                href="https://github.com/x402eco/website"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-sm font-mono text-gray hover:text-accent transition-colors"

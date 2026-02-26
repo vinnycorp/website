@@ -7,7 +7,7 @@ function TerminalCopyButton() {
   const [copied, setCopied] = useState(false);
 
   const handleCopy = useCallback(() => {
-    navigator.clipboard.writeText("npx skills add rawgroundbeef/x402eco").then(() => {
+    navigator.clipboard.writeText("npx skills add x402eco/x402eco").then(() => {
       setCopied(true);
       setTimeout(() => setCopied(false), 2000);
     });
@@ -99,7 +99,7 @@ export function MetaSkillSection() {
                 <div className="text-gray-dim italic"># Install the x402 ecosystem skill</div>
                 <div>
                   <span className="text-accent mr-2">$</span>
-                  <span className="text-text">npx skills add rawgroundbeef/x402eco</span>
+                  <span className="text-text">npx skills add x402eco/x402eco</span>
                 </div>
 
                 <div className="mt-3">
