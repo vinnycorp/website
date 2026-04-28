@@ -3,6 +3,7 @@ const CHAINS = [
   { id: 'solana', name: 'Solana', colorLogo: '/logos/solana-color.svg', monoLogo: '/logos/solana.svg', url: 'https://solana.com' },
   { id: 'allium', name: 'Allium', colorLogo: '/logos/allium-color.svg', monoLogo: '/logos/allium.svg', isDataPartner: true, url: 'https://allium.so' },
   { id: 'aibtc', name: 'aibtc', colorLogo: '/logos/aibtc.svg', monoLogo: '/logos/aibtc.svg', url: 'https://aibtc.dev' },
+  { id: 'celestia', name: 'Celestia', colorLogo: '/logos/celestia.svg', monoLogo: '/logos/celestia.svg', url: 'https://celestia.org' },
 ];
 
 /**
